@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/2kfm7zP/damian-zaleski-RYyr-k3-Ysqg-unsplash.jpg",
+    "title": "The Hidden Peaks",
+    "author": "Jane Doe",
+    "author_img": "https://i.ibb.co/1Tk1db1/images.jpg",
+    "post_date": "2024-04-01",
+    "reading_time": 15,
+    "hashtags": ["#Adventure", "#Mystery", "#Nature"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/2kfm7zP/damian-zaleski-RYyr-k3-Ysqg-unsplash.jpg",
+    "title": "Echoes of the Past",
+    "author": "John Smith",
+    "author_img": "https://i.ibb.co/1Tk1db1/images.jpg",
+    "post_date": "2024-03-28",
+    "reading_time": 8,
+    "hashtags": ["#History", "#Thriller", "#TimeTravel"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/02kGr4c/davisuko-5-E5-N49-RWtb-A-unsplash.jpg",
+    "title": "Futuristic Visions",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/DK4VHLf/images-1.jpg",
+    "post_date": "2024-04-15",
+    "reading_time": 12,
+    "hashtags": ["#SciFi", "#Future", "#Innovation"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/02kGr4c/davisuko-5-E5-N49-RWtb-A-unsplash.jpg",
+    "title": "The Culinary Journey",
+    "author": "Emily White",
+    "author_img": "https://i.ibb.co/DK4VHLf/images-1.jpg",
+    "post_date": "2024-02-20",
+    "reading_time": 20,
+    "hashtags": ["#Cooking", "#Food", "#Travel"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/2kfm7zP/damian-zaleski-RYyr-k3-Ysqg-unsplash.jpg",
+
+    "title": "Rhythms of the City",
+    "author": "Dave Brown",
+    "author_img": "https://i.ibb.co/DK4VHLf/images-1.jpg",
+    "post_date": "2024-03-15",
+    "reading_time": 10,
+    "hashtags": ["#UrbanLife", "#Music", "#Culture"]
+  }
+]
